@@ -127,4 +127,4 @@
     </table>
 </div>
 </body>
-</html><?php // UI improved by Edenyaaa ?>
+</html><?php // Updated by Edenyaaa ?>
