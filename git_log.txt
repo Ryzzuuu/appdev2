@@ -1,0 +1,12 @@
+ryzat@RyzaAzyr MINGW64 /c/xampp/htdocs/appdev2 (feature-delete-module)
+$ git log --graph --oneline --all --decorate
+*   12fe877 (HEAD -> feature-delete-module, origin/main, origin/HEAD) Merge pull request #2 from Ryzzuuu/feature-ui-improvement
+|\
+| * d031fa6 UI improvements and search feature - Edenyaaa
+|/
+*   322f58e Merge pull request #1 from Ryzzuuu/feature-delete-module
+|\
+| * f74f0e4 (origin/feature-delete-module) Enhanced UI styling and layout - Ryzzuuu
+| * 074cfd8 Enhanced UI styling and layout - Ryzzuuu
+|/
+* a8b787c (main) Add files via upload

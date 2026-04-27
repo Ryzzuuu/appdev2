@@ -1,4 +1,5 @@
 <?php
+// UI improved by Edenyaaa
 require 'db.php';
 
 $search = isset($_GET['search']) ? $_GET['search'] : '';
